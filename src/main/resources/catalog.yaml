@@ -1,0 +1,13 @@
+name: data
+description: data
+contact_emails:
+  - a@a.com
+  - b@b.com
+language: kotlin
+owner: claudio
+status: production
+alert_service: http://www.google.com
+telemetry_dashboard: http://www.google.com
+dependencies:
+  - service_a
+  - service_b
